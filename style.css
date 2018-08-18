@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(172, 101, 101);
+  margin: 0;
+  margin-left: 2%;
+}
+
+h1 {
+  text-align: center;
+}
+
+button {
+  padding: 50px 100px;
+  font-size: 3em;
+  width: 24%;
+  margin-bottom: 200px;
+}
+
+div {
+  border: 2px solid black;
+  padding: 50px 100px;
+  width: 40%;
+  margin: auto;
+
+  font-size: 3em;
+  background-color: rgb(243, 223, 223);
+}
